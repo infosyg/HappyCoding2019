@@ -97,11 +97,15 @@ application = run()'''
 # a = 1
 # b = 2
 # h = ""
-#
 # h = a-b if a>b else a+b
-#
 # print(h)
 
+#循环
+# for i in range(21):
+#     if i == 4:
+#         continue
+#     print(12/i)
+#
 
 
 
