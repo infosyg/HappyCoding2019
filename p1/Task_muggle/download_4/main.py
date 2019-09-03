@@ -47,4 +47,4 @@ def get_code(requests: HttpRequest):
 
 app = run()
 import sys
-sys.path.extend(((())))
+sys.path.extend()

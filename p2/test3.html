@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+【table】
+{#<table></table>表格框#}
+{#<tr></tr>表格行#}
+{#<td></td>表格列#}
+{#<th></th> 表格标题列（将tr中的td替换为th)，th默认加粗且在单元格居中显示。#}
+{##}
+{#【table的常用属性】#}
+{#1-border：表格边框属性；当使用border="1"设置边框时，会在所有td以及table上嵌套边框，当border加大时，只有table框会加粗。#}
+{#2-cellspacing：单元格与单元格之间的间隙。当cellspacing="0"时，单元格之间的间隙为0，但边框线并不会合并。#}
+{#☆☆合并边框的写法style="border-collapse:collapse;" 使用边框合并时，无需设置cellspacing。#}
+{#3-cellpadding:单元格内边距，单元格中文字与单元格边框之间的距离。#}
+{#4-width/height:表格的宽高#}
+{#5-align：设置表格在父容器中的对齐方式 ，left/居左 center/居中 right/居右#}
+{#☆☆当表格使用align属性时，相当于使表格浮动，可能会导致表格后面的元素受表格浮动影响，导致布局错乱。#}
+{#6-bgcolor：背景色#}
+{#7-background：背景图，后接相对路径。背景图和背景色同时生效时，图会覆盖背景色#}
+{#8-bordercolor：设置边框颜色#}
+    <table border="1" >
+        <caption>横跨二列的单元格</caption>
+        <tr>
+            <th>
+                姓名
+            </th>
+            <th>
+                电话
+            </th>
+            <th>
+                地址
+            </th>
+        </tr>
+        <tr>
+            <td>111</td>
+            <td>222</td>
+            <td style="color: red">3333333333333333333</td>
+
+        </tr>
+        <tr>
+            <td>111</td>
+            <td>222</td>
+            <td>123123123123123</td>
+
+        </tr>
+
+    </table>
+    <br/>
+    <table border="1">
+        <thead>
+        <tr>
+            <th>Month</th>
+            <th>Savings</th>
+        </tr>
+        </thead>
+        <tfoot>
+        <tr>
+            <td>Sum</td>
+            <td oninput="this">$ <input type="text">  </td>
+        </tr>
+        </tfoot>
+
+    </table>
+
+
+<table border="30" oninput="delete">
+    <tr >
+        <th>
+            1
+        </th>
+        <th>
+            2
+        </th>
+    </tr>
+    <tr>
+        <td>000</td>
+        <td>111</td>
+
+    </tr>
+</table>
+<input type=email value="666" name="int">
+<input type=url>
+<form action="127.0.0.1" method="get"></form>
+
+</body>
+</html>
