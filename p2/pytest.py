@@ -56,10 +56,11 @@
 #快速实现 在线压缩图片功能
 
 from django_micro import route, run,configure
-from django.http import HttpResponse, HttpRequest
+from django.http import HttpResponse, HttpRequest,FileResponse
 import dominate.tags as dom
 from dominate.document import document
 from PIL import Image
+
 
 DEBUG = True
 configure(locals())
@@ -69,6 +70,7 @@ def page():
     with doc as root:
         with doc.body:
             with dom.form(action="/file",method="post",enctype="multipart/form-data"):
+                # input三个属性：type，name，value
                 dom.input(type="file",name="image")
                 dom.button("submit",type="submit")
     return root.render()
@@ -86,9 +88,12 @@ def filehandler(request:HttpRequest):
     return HttpResponse("ok")
 
 app = run()
-# app = run()
 
-print(page())
+
+@app.route('file')
+def fielhandler(request:HttpRequest):
+    user_image = request.FILES.get("image")
+    img = Image.open(user_image)
 
 
 
