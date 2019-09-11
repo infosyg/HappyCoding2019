@@ -1,0 +1,44 @@
+.js{
+    /*Top Right Bottom left */
+    padding:10px 10px 10px;
+    margin: 10px 10px 10px;
+    background-color: yellow;
+    font-size: 6rem;
+    font-weight: bold;
+    color:black;
+    text-align:center;
+    width:200px;
+    height:12rem;
+    border: solid;
+    border-width: 8px;
+    border-color: black;
+}
+
+.go{
+    /* Top Right Bottom Left   */
+    padding: 10px 10px 10px;
+    margin:  10px 10px 10px;
+    background-color: cyan;
+    font-size: 6rem;
+    font-weight: bold;
+    color:white;
+    text-align:center;
+    width:200px;
+    border: solid;
+    border-width: 8px;
+    border-color: black;
+    
+}
+.py{
+  padding:10px 10px 10px 50px;
+  margin:10px 10px 10px 10px;
+  background-color:mediumblue;
+  width:200px;
+  height: 200px;
+  font-size:6rem;
+  color:gold;
+  font-weight:bold;
+  border: solid;
+  border-width: 8px;
+  border-color: black;
+}
