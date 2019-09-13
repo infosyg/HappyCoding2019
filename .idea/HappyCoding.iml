@@ -5,7 +5,7 @@
       <sourceFolder url="file://$MODULE_DIR$/L02/ForLoop/Final/forloopexample" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/p1/Task_muggle/download_4" isTestSource="false" />
     </content>
-    <orderEntry type="jdk" jdkName="Pipenv (HappyCoding)" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="Python 3.7" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
   <component name="TemplatesService">
