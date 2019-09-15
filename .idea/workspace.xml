@@ -1,14 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b68c782-6d74-4abd-9dce-81f0f9cdafca" name="Default Changelist" comment="03">
-      <change afterPath="$PROJECT_DIR$/.idea/webResources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p2/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p2/PycharmProjects/uploadfile-2/upload.py" afterDir="false" />
+    <list default="true" id="5b68c782-6d74-4abd-9dce-81f0f9cdafca" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/函数用法实例.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/HappyCoding.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/HappyCoding.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/webResources.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/p2/PycharmProjects/Mysite/appone/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/p2/PycharmProjects/Mysite/appone/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/p2/PycharmProjects/uploadfile-2/index.py" beforeDir="false" afterPath="$PROJECT_DIR$/p2/PycharmProjects/uploadfile-2/index.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/p2/pytest.py" beforeDir="false" afterPath="$PROJECT_DIR$/p2/pytest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/p2/test3.html" beforeDir="false" afterPath="$PROJECT_DIR$/p2/test3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/p2/uploadfile-1/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/p2/PycharmProjects/uploadfile-1/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/p2/uploadfile-1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/p2/PycharmProjects/uploadfile-1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/p2/uploadfile-1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/p2/PycharmProjects/uploadfile-1/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/p2/uploadfile-1/.idea/uploadfile-1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/p2/PycharmProjects/uploadfile-1/.idea/uploadfile-1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/p2/uploadfile-1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/p2/PycharmProjects/uploadfile-1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/p2/uploadfile-1/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/p2/PycharmProjects/uploadfile-1/main.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -83,11 +89,12 @@
     <option name="myUseExistingConsole" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Dev\HappyCoding\p2\PycharmProjects\Mysite\appone" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Dev\HappyCoding\p2\PycharmProjects\Mysite\appone\migrations" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Dev\HappyCoding\p2\PycharmProjects" />
+      <recent name="D:\Dev\HappyCoding\p2\PycharmProjects\Mysite\appone" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -102,8 +109,27 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.upload">
-    <configuration name="test3.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HappyCoding/p2/test3.html">
+  <component name="RunManager" selected="Python.index">
+    <configuration name="函数用法实例" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="HappyCoding" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/函数用法实例.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
     <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -217,20 +243,20 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="JavaScript Debug.test3.html" />
       <item itemvalue="Python.main" />
       <item itemvalue="Python.pytest" />
       <item itemvalue="Python.app" />
       <item itemvalue="Python.index" />
       <item itemvalue="Python.upload" />
+      <item itemvalue="Python.函数用法实例" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.upload" />
-        <item itemvalue="Python.pytest" />
         <item itemvalue="Python.index" />
+        <item itemvalue="Python.函数用法实例" />
+        <item itemvalue="Python.pytest" />
+        <item itemvalue="Python.upload" />
         <item itemvalue="Python.app" />
-        <item itemvalue="JavaScript Debug.test3.html" />
       </list>
     </recent_temporary>
   </component>
@@ -254,7 +280,7 @@
       <workItem from="1568427869155" duration="6516000" />
       <workItem from="1568455205388" duration="606000" />
       <workItem from="1568467335740" duration="2794000" />
-      <workItem from="1568501924695" duration="8665000" />
+      <workItem from="1568501924695" duration="20130000" />
     </task>
     <task id="LOCAL-00001" summary="03">
       <created>1566470735363</created>
@@ -354,7 +380,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568384366896</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="update">
+      <created>1568536602001</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1568536602001</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -376,7 +409,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="03" />
-    <option name="LAST_COMMIT_MESSAGE" value="03" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -403,6 +437,8 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/HappyCoding$upload.coverage" NAME="upload Coverage Results" MODIFIED="1568513868607" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/p2/PycharmProjects/uploadfile-2" />
-    <SUITE FILE_PATH="coverage/HappyCoding$pytest.coverage" NAME="pytest Coverage Results" MODIFIED="1568512047133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/p2" />
+    <SUITE FILE_PATH="coverage/HappyCoding$pytest.coverage" NAME="pytest Coverage Results" MODIFIED="1568537742219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/p2" />
+    <SUITE FILE_PATH="coverage/HappyCoding$index.coverage" NAME="index Coverage Results" MODIFIED="1568544867351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/p2/PycharmProjects/uploadfile-2" />
+    <SUITE FILE_PATH="coverage/HappyCoding$.coverage" NAME="函数用法实例 Coverage Results" MODIFIED="1568538967070" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
