@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b68c782-6d74-4abd-9dce-81f0f9cdafca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/p2/PycharmProjects/uploadfile-2/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p2/PycharmProjects/uploadfile-2/house1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/p2/PycharmProjects/uploadfile-2/pictursc_1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/p2/PycharmProjects/uploadfile-2/index.py" beforeDir="false" afterPath="$PROJECT_DIR$/p2/PycharmProjects/uploadfile-2/index.py" afterDir="false" />
-    </list>
+    <list default="true" id="5b68c782-6d74-4abd-9dce-81f0f9cdafca" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,6 +144,9 @@
       <module name="HappyCoding" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/p2/PycharmProjects/uploadfile-2" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -270,7 +267,7 @@
       <workItem from="1568455205388" duration="606000" />
       <workItem from="1568467335740" duration="2794000" />
       <workItem from="1568501924695" duration="20766000" />
-      <workItem from="1568581859636" duration="4931000" />
+      <workItem from="1568581859636" duration="5638000" />
     </task>
     <task id="LOCAL-00001" summary="03">
       <created>1566470735363</created>
@@ -384,7 +381,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568555197637</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="p2/uploadfile">
+      <created>1568587027109</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1568587027109</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -407,7 +411,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="03" />
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="p2/uploadfile" />
+    <option name="LAST_COMMIT_MESSAGE" value="p2/uploadfile" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
